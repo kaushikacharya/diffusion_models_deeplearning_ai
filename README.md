@@ -16,8 +16,8 @@ This repository contains
 
 |#|Lesson    |
 |-|----------|
-|0|Introduction|
-|1|Intuition|
+|0|[Introduction](./notes/Lesson_0.md)|
+|1|[Intuition](./notes/Lesson_1.md)|
 |2|[Sampling](./notes/Lesson_2.md)|
 |3|[Neural Network](./notes/Lesson_3.md)|
 |4|[Training](./notes/Lesson_4.md)|
