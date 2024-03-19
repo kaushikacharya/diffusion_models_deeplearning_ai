@@ -15,6 +15,7 @@
 |3|[Neural Network](./notes/Lesson_3.md)|
 |4|[Training](./notes/Lesson_4.md)|
 |5|[Controlling](./notes/Lesson_5.md)|
+|6|[Speeding Up](./notes/Lesson_6.md)|
 
 ## Assignments
 
@@ -23,3 +24,4 @@
 |1|[Sampling](./notes/Lesson_2.md#notebook)|Sampling of sprites using a pre-trained model|
 |2|[Training](./notes/Lesson_4.md#notebook)|Training|
 |3|[Context](./notes/Lesson_5.md#notebook)|Sampling with context to control generation of images|
+|4|[Fast Sampling](./notes/Lesson_6.md#notebook)|Fast sampling using DDIM|
