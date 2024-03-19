@@ -1,5 +1,12 @@
 # How Diffusion Models Work
 
+## About
+
+This repository contains
+
+- [Course notes](#course-contents)
+- [Assignments](#assignments)
+
 ## Course Info
 
 - Author: DeepLearning.ai
@@ -16,6 +23,7 @@
 |4|[Training](./notes/Lesson_4.md)|
 |5|[Controlling](./notes/Lesson_5.md)|
 |6|[Speeding Up](./notes/Lesson_6.md)|
+|7|[Summary](./notes/Lesson_7.md)|
 
 ## Assignments
 
