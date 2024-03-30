@@ -1,9 +1,15 @@
 # Sampling
 
+- Neural network tries to fully predict the noise at each step.
+  - Predicted noise: Noise that the trained neural network wants to subtract from the original noise to get something that looks more sprite-like.
+  - Iteration details:
+    - The neural network expects a noisy sample as input.
+    - We can add in additional noise before it gets passed to the next step.
+  - Empirically, this stabilizes the neural network so it doesn't collapse to something closer to the average of the dataset.
 - Normalizing by $1/\sqrt{2}$ after adding residual
   - [Stackexchange thread](https://stats.stackexchange.com/questions/553634/understanding-normalisations-in-stylegan2-and-on-general) attempts an explanation
     - Variance increases on addition of random variables.
-    - Explains that if variance of both random variables are same then that out lead to dooubling of variance which woould in turn lead to gradient explosion when there are multiple layers.
+    - Explains that if variance of both random variables are same then that out lead to doubling of variance which would in turn lead to **gradient explosion** when there are multiple layers.
 
 ## [Notebook](../code/L1_Sampling.ipynb)
 
