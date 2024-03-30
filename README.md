@@ -10,7 +10,9 @@ This repository contains
 ## Course Info
 
 - Author: DeepLearning.ai
-- [Course url](https://learn.deeplearning.ai/courses/diffusion-models)
+- Course urls
+  - [Coursera](https://www.coursera.org/learn/how-diffusion-models-work-project)
+  - [DeepLearning.ai](https://learn.deeplearning.ai/courses/diffusion-models)
 
 ## Course Contents
 
@@ -33,3 +35,7 @@ This repository contains
 |2|[Training](./notes/Lesson_4.md#notebook)|Training|
 |3|[Context](./notes/Lesson_5.md#notebook)|Sampling with context to control generation of images|
 |4|[Fast Sampling](./notes/Lesson_6.md#notebook)|Fast sampling using DDIM|
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/#generative-ai) for other Generative AI courses.
